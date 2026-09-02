@@ -13,38 +13,7 @@ This project analyzes Netflix titles to understand content distribution, growth 
 
 The project was built as a complete data analytics pipeline rather than only a visualization project.
 
-### Analytics Workflow
 
-Raw Netflix Dataset  
-↓  
-Python Data Loading  
-↓  
-MySQL Database  
-↓  
-Data Cleaning & Transformation  
-↓  
-SQL Analysis  
-↓  
-Power BI Data Modeling  
-↓  
-DAX Measures  
-↓  
-Interactive 5-Page Dashboard
-
----
-
-## 🛠️ Tools & Technologies
-
-- Python
-- MySQL
-- SQL
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Visualization
-
----
 
 # 🔄 Project Workflow
 
@@ -220,7 +189,7 @@ The table allows users to explore individual Netflix titles along with:
 - Country
 - Director
 
-![Content Explorer](Dashboard/Page_5_Content_Explorer.png)
+![Content Explorer](https://github.com/Krishkhattar03/Netflix-Data-Analytics/blob/main/5.jpeg)
 
 ---
 
@@ -235,28 +204,4 @@ The analysis highlights several patterns within the Netflix catalog:
 - Netflix TV Shows are concentrated heavily around a small number of seasons.
 - Content distribution varies significantly across countries and ratings.
 
----
 
-# 📂 Project Structure
-
-```text
-Netflix-Data-Analytics/
-│
-├── README.md
-│
-├── Python/
-│   └── data_loading.py
-│
-├── SQL/
-│   ├── data_cleaning.sql
-│   └── analysis_questions.sql
-│
-├── PowerBI/
-│   └── Netflix_Content_Analytics.pbix
-│
-└── Dashboard/
-    ├── Page_1_Executive_Overview.png
-    ├── Page_2_Content_Analysis.png
-    ├── Page_3_Geographic_Analysis.png
-    ├── Page_4_People_Creators.png
-    └── Page_5_Content_Explorer.png
