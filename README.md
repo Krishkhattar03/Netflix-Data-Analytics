@@ -158,7 +158,7 @@ Focuses on the characteristics of Netflix content.
 - Average Movie Duration
 - Average TV Show Seasons
 
-![Content Analysis](Dashboard/Page_2_Content_Analysis.png)
+![Content Analysis](https://github.com/Krishkhattar03/Netflix-Data-Analytics/blob/main/2.jpeg)
 
 ---
 
