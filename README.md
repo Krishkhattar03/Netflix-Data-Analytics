@@ -141,7 +141,7 @@ Provides a high-level overview of Netflix's content library.
 - Rating Distribution
 - Key Insights
 
-![Executive Overview](Dashboard/Page_1_Executive_Overview.png)
+![Executive Overview](https://github.com/Krishkhattar03/Netflix-Data-Analytics/blob/main/1.jpeg)
 
 ---
 
