@@ -190,7 +190,7 @@ Analyzes the directors and cast members associated with Netflix content.
 - Director Details
 - Director and cast-level analysis
 
-![People & Creators](Dashboard/Page_4_People_Creators.png)
+![People & Creators](https://github.com/Krishkhattar03/Netflix-Data-Analytics/blob/main/4.jpeg)
 
 ---
 
