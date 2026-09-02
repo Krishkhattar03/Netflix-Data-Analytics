@@ -174,7 +174,7 @@ Explores Netflix's content distribution across countries.
 - Country-wise Content Breakdown
 - Geographic distribution of Netflix titles
 
-![Geographic Analysis](Dashboard/Page_3_Geographic_Analysis.png)
+![Geographic Analysis](https://github.com/Krishkhattar03/Netflix-Data-Analytics/blob/main/3.jpeg)
 
 ---
 
